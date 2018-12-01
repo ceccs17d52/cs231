@@ -1,6 +1,6 @@
 /*
-MOHAMED SHAHIL K
-S3 D 34
+THWALIB NAZIR
+S3 D 52
 Dequeue using linked list 
 */
 #include <stdio.h>
