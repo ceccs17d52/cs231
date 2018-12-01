@@ -1,5 +1,5 @@
-/* MOHAMED SHAHIL K
-   S3 D 34
+/* THWALIB NAZIR
+   S3 D 52
    SINGLE LINKED LIST*/
 
 #include <stdio.h>
